@@ -9,7 +9,6 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'lingt-xyz', // Usually your GitHub org/user name.
   projectName: 'philosophy', // Usually your repo name.
-  trailingSlash: false,
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css',
