@@ -1,0 +1,2 @@
+# philosophy
+notes for philosophy
