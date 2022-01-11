@@ -32,9 +32,14 @@ module.exports = {
         //   position: 'left',
         // },
         {
-          to: 'docs/philosophy/philosophy101',
-          activeBasePath: 'docs/philosophy',
+          to: 'docs/philosophy101',
+          // activeBasePath: 'docs/philosophy',
           label: 'Philosophy',
+          position: 'left',
+        },
+        {
+          to: 'docs/logic',
+          label: 'Logic',
           position: 'left',
         },
         // {to: 'blog', label: 'Blog', position: 'left'},
