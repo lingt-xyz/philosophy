@@ -4,8 +4,8 @@
   <ShortName>密云不雨</ShortName>
   <Description>Search 密云不雨</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://phil.lingt.xyz/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://phil.lingt.xyz//search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://phil.lingt.xyz//opensearch.xml" />
-  <moz:SearchForm>https://phil.lingt.xyz/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://lingt.xyz/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://lingt.xyz//search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://lingt.xyz//opensearch.xml" />
+  <moz:SearchForm>https://lingt.xyz/</moz:SearchForm>
 </OpenSearchDescription>
