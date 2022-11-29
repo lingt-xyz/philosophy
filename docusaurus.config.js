@@ -4,7 +4,7 @@ const katex = require("rehype-katex");
 module.exports = {
   title: '密云不雨',
   tagline: 'Notes for everything',
-  url: 'https://phil.lingt.xyz/',
+  url: 'https://lingt.xyz/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'lingt-xyz', // Usually your GitHub org/user name.
